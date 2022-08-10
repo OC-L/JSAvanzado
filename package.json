@@ -1,0 +1,15 @@
+{
+  "name": "jsavanzado",
+  "version": "1.0.0",
+  "description": "Este es un ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
